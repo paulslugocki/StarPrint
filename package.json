@@ -1,0 +1,19 @@
+{
+  "name": "starprint",
+  "version": "0.1.1",
+  "description": "StarPrint plugin for cordova-ios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulslugocki/StarPrint.git"
+  },
+  "author": "TourCMS <support@tourcms.com> (http://www.tourcms.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulslugocki/StarPrint/issues"
+  },
+  "homepage": "https://github.com/paulslugocki/StarPrint#readme"
+}
